@@ -1,9 +1,1 @@
-This is first file
-change
-added by c1
-<<<<<<< HEAD
-added to main
-=======
-changing f1 branch1
->>>>>>> f1
-Changing main for rebasing
+This is first file change
